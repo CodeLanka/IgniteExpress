@@ -1,4 +1,4 @@
-# nodejs-api-starter
+# IgniteExpress
 
 Starting point for secured Node.js API
 
